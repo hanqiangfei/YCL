@@ -1,0 +1,12 @@
+
+# 安装：
+pip install pgzero -i https://pypi.tuna.tsinghua.edu.cn/simple
+
+# 使用：
+https://pygame-zero.readthedocs.io/en/stable/introduction.html#creating-a-window
+
+# 样例
+https://berbasoft.com/simplegametutorials/pygamezero/
+
+# 代码
+https://electronstudio.github.io/pygame-zero-book/chapters/simple_games.html#collisions
