@@ -5,7 +5,8 @@ HEIGHT = 600
 MAX_BULLETS=10
 bullets=[]
 
-player=Actor("actor")
+player=Actor("actor/001") 
+player.scale=2.0
 player.pos=(300,500)
 
 def draw():
